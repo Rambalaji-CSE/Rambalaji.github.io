@@ -1,0 +1,506 @@
+#dis
+{
+    text-align: center;
+    color: white;
+    font-family: Helvetica;
+    font-size: 39px;
+    text-shadow: 12px 14px 12px gray;
+    
+}
+
+#app{
+    color: white;
+     text-decoration: none;
+      font-size: 22px;
+      padding-left: 50px;
+}
+
+#Investor{
+    color: white; 
+    text-decoration: none;
+    font-size: 22px;
+    padding-left: 810px;
+}
+
+#add{
+    color: white;
+    text-decoration: none;
+    font-size: 22px;
+    padding-left : 20px;
+}
+
+#login{
+    color: white;
+     text-decoration: none;
+     font-size: 22px;
+     padding-left : 20px;
+
+}
+
+#signup{
+    color: white;
+     text-decoration: none;
+     font-size: 22px;
+     padding-left : 20px;
+}
+
+#ZomLogo{
+    text-align: center;
+    display: block;
+     margin: auto;
+     height: 100px;
+}
+
+#gps{
+    background-image: url('gps.png');
+    background-size: 15px;
+    background-repeat: no-repeat; 
+    width:27%;
+    height: 39px;
+    background-position: left; 
+    border: 1px solid white;
+    text-align: center;
+    border-radius: 7px;
+    margin-left: 350px;
+    
+}
+
+#searchh{
+    background-image: url('search-icon-png-21.png');
+    background-size: 20px;
+    background-repeat: no-repeat;
+    width:27%;
+    height: 39px;
+    background-position: left ;
+    border: 1px solid white;
+    text-align: center;
+    border-radius: 7px; 
+}
+
+img.hover-shadow {
+    transition: 0.3s;
+    border-radius: 16px;
+  }
+  
+  .hover-shadow:hover {
+    box-shadow: 3px 19px 50px 0 rgba(69, 0, 133, 0.815), 3px 19px 50px rgba(225, 138, 233, 0.815);
+  }
+
+#order1{
+    height: 260px;
+    width: 400px;
+    margin-left:150px;
+}
+
+#order2{
+    height: 260px;
+    width: 400px;
+    margin-left: 5px;
+
+}
+#order3{
+    height: 260px;
+    width: 400px;
+     margin-left: 5px;
+    
+}
+
+#coll{
+    font-family:  Helvetica;
+    font-size: 45px;
+    padding-left: 150px;
+    
+}
+
+#Exp{
+    font-family:  Helvetica;
+    font-size: 25px;
+    padding-left: 150px;
+}
+
+#coll1{
+    height: 360px;
+    width: 305px;
+    border-radius: 7px;
+    margin-left: 150px;
+}
+
+#coll2{
+    height: 360px;
+    width: 305px;
+}
+
+#coll3{
+    height: 360px;
+    width: 305px;
+}
+#coll4{
+    height: 360px;
+    width: 305px;
+}
+
+#pop{
+    font-family:  Helvetica;
+    font-size: 45px;
+    padding-left: 150px; 
+}
+
+#Indira{
+    background-image: url('chevronrigh.png'); 
+    background-size: 60px;
+    background-repeat: no-repeat;
+    width: 26%; height: 85px;
+    border: 1px solid grey; 
+    text-align: center; 
+    background-position: center right;
+    margin-top: 10px; 
+    font-size: 23px; 
+    font-family: Helvetica;
+    display: inline-block;
+    text-decoration: none; 
+    color: black; 
+    line-height: 85px;
+    border-radius: 5px;
+    margin-left: 155px;
+    
+}
+#Indira:hover {
+    background-color: #F0A341;
+}
+
+#Mara{
+    background-image: url('chevronrigh.png'); 
+    background-size: 60px;
+    background-repeat: no-repeat;
+    width: 26%; height: 85px;
+    border: 1px solid grey; 
+    text-align: center; 
+    background-position: center right;
+    margin-top: 10px; 
+    font-size: 23px; 
+    font-family: Helvetica;
+    display: inline-block;
+    text-decoration: none; 
+    color: black; 
+    line-height: 85px;
+    border-radius: 5px;
+}
+
+#Mara:hover {
+    background-color: #F0A341;
+  }
+
+#white{
+    background-image: url('chevronrigh.png'); 
+    background-size: 60px;
+    background-repeat: no-repeat;
+    width: 26%; height: 85px;
+    border: 1px solid grey; 
+    text-align: center; 
+    background-position: center right;
+    margin-top: 10px; 
+    font-size: 23px; 
+    font-family: Helvetica;
+    display: inline-block;
+    text-decoration: none; 
+    color: black; 
+    line-height: 85px;
+    border-radius: 5px;
+}
+
+#white:hover {
+    background-color: #F0A341;
+  }
+
+#kora{
+    background-image: url('chevronrigh.png'); 
+    background-size: 60px;
+    background-repeat: no-repeat;
+    width: 26%; height: 85px;
+    border: 1px solid grey; 
+    text-align: center; 
+    background-position: center right;
+    margin-top: 10px; 
+    font-size: 23px; 
+    font-family: Helvetica;
+    display: inline-block;
+    text-decoration: none; 
+    color: black; 
+    line-height: 85px;
+    border-radius: 5px;
+    margin-left: 155px;
+
+}
+
+#kora:hover {
+    background-color: #F0A341;
+  }
+
+#Hsr{
+    background-image: url('chevronrigh.png'); 
+    background-size: 60px;
+    background-repeat: no-repeat;
+    width: 26%; height: 85px;
+    border: 1px solid grey; 
+    text-align: center; 
+    background-position: center right;
+    margin-top: 10px; 
+    font-size: 23px; 
+    font-family: Helvetica;
+    display: inline-block;
+    text-decoration: none; 
+    color: black; 
+    line-height: 85px;
+    border-radius: 5px;
+}
+
+#Hsr:hover {
+
+    background-color: #F0A341;
+  }
+#JAya{
+    background-image: url('chevronrigh.png'); 
+    background-size: 60px;
+    background-repeat: no-repeat;
+    width: 26%; height: 85px;
+    border: 1px solid grey; 
+    text-align: center; 
+    background-position: center right;
+    margin-top: 10px; 
+    font-size: 23px; 
+    font-family: Helvetica;
+    display: inline-block;
+    text-decoration: none; 
+    color: black; 
+    line-height: 85px;
+    border-radius: 5px;
+}
+
+#JAya:hover {
+    background-color: #F0A341;
+  }
+
+#jp{
+    background-image: url('chevronrigh.png'); 
+    background-size: 60px;
+    background-repeat: no-repeat;
+    width: 26%; height: 85px;
+    border: 1px solid grey; 
+    text-align: center; 
+    background-position: center right;
+    margin-top: 10px; 
+    font-size: 23px; 
+    font-family: Helvetica;
+    display: inline-block;
+    text-decoration: none; 
+    color: black; 
+    line-height: 85px;
+    margin-left: 155px;
+    border-radius: 5px;
+
+}
+
+#jp:hover {
+    background-color: #F0A341;
+  }
+
+#sar{
+    background-image: url('chevronrigh.png'); 
+    background-size: 60px;
+    background-repeat: no-repeat;
+    width: 26%; height: 85px;
+    border: 1px solid grey; 
+    text-align: center; 
+    background-position: center right;
+    margin-top: 10px; 
+    font-size: 23px; 
+    font-family: Helvetica;
+    display: inline-block;
+    text-decoration: none; 
+    color: black; 
+    line-height: 85px;
+    border-radius: 5px;
+}
+#sar:hover {
+    background-color: #F0A341;
+  }
+
+#see{    
+    background-image: url('chevronrigh.png'); 
+    background-size: 60px;
+    background-repeat: no-repeat;
+    width: 26%; height: 85px;
+    border: 1px solid grey; 
+    text-align: center; 
+    background-position: center right;
+    margin-top: 10px; 
+    font-size: 23px; 
+    font-family: Helvetica;
+    display: inline-block;
+    text-decoration: none; 
+    color: black; 
+    line-height: 85px;
+    border-radius: 5px;
+
+}
+
+#see:hover {
+    background-color: #F0A341;
+  }
+
+#p22{
+    height: 600px;width: 1480px;
+}
+
+#exp{
+    font-family: Helvetica;
+    font-size: 45px;
+    padding-left: 140px;
+}
+
+#pop1{
+
+    background-image: url('chevron-down.png'); 
+    background-size: 30px;
+    background-repeat: no-repeat;
+    width: 1166px; height: 78px;
+    border: 1px solid grey; 
+    text-align: left;
+    background-position: center right; 
+    margin-top: 10px; 
+    font-size: 23px;
+    font-family: Helvetica;
+    display: inline-block; 
+    text-decoration: none; 
+    color: black; 
+    line-height: 85px;
+    padding-left: 20px;
+    border-radius: 5px;
+    margin-left: 140px;
+}
+
+#pop1:hover {
+    background-color: #F0A341;
+}
+
+#pop2:hover {
+    background-color: #F0A341;
+}
+
+#pop3:hover {
+    background-color: #F0A341;
+}
+
+#pop4:hover {
+    background-color: #F0A341;
+}
+
+#pop2{
+    background-image: url('chevron-down.png'); 
+    background-size: 30px;
+    background-repeat: no-repeat;
+    width: 1166px; height: 78px;
+    border: 1px solid grey; 
+    text-align: left;
+    background-position: center right; 
+    margin-top: 10px; 
+    font-size: 23px;
+    font-family: Helvetica;
+    display: inline-block; 
+    text-decoration: none; 
+    color: black; 
+    line-height: 85px;
+    border-radius: 5px;
+    margin-left: 140px;
+    padding-left: 20px;
+
+}
+
+#pop3{
+    background-image: url('chevron-down.png'); 
+    background-size: 30px;
+    background-repeat: no-repeat;
+    width: 1166px; height: 78px;
+    border: 1px solid grey; 
+    text-align: left;
+    background-position: center right; 
+    margin-top: 10px; 
+    font-size: 23px;
+    font-family: Helvetica;
+    display: inline-block; 
+    text-decoration: none; 
+    color: black; 
+    line-height: 85px;
+    border-radius: 5px;
+    margin-left: 140px;   
+     padding-left: 20px;
+
+}
+
+#pop4{
+    background-image: url('chevron-down.png'); 
+    background-size: 30px;
+    background-repeat: no-repeat;
+    width: 1166px; height: 78px;
+    border: 1px solid grey; 
+    text-align: left;
+    background-position: center right; 
+    margin-top: 10px; 
+    font-size: 23px;
+    font-family: Helvetica;
+    display: inline-block; 
+    text-decoration: none; 
+    color: black; 
+    line-height: 85px;
+    border-radius: 5px;
+    margin-left: 140px;
+    padding-left: 20px;
+}
+
+#div{
+    border: 1px solid gray; float: left; width: 100%; height: 600px;font-family: Helvetica;background-color: #F2F3EF;
+}
+
+#zoLogo{
+    width:144px;height: 33px;padding-left: 144px;
+}
+
+#India{
+    width: 123px;height: 42px;padding-left: 858px;
+}
+
+#eng{
+    width: 123px;height: 42px;
+}
+
+.Bofont
+{
+    font-size: 21px;
+}
+
+#fontsize{
+    font-size: 20px;
+    text-align: left;
+}
+
+
+
+
+
+a:hover {color:red}
+
+a{
+    color: black;
+    text-decoration: none;
+}
+
+hr
+{
+    border: 1px solid gray;
+    width: 94%;
+}
+#last
+{
+    padding-left: 43px;
+    text-align: left;
+}
